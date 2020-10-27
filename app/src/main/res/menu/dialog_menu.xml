@@ -5,10 +5,10 @@
     <item android:id="@+id/dialogEdit"
         app:showAsAction="always"
         android:title="Edit"
-        android:icon="@drawable/ic_edit"/>
+        android:icon="@drawable/ic_edit_data"/>
 
     <item android:id="@+id/dialogHapus"
         app:showAsAction="always"
         android:title="Hapus"
-        android:icon="@drawable/ic_delete"/>
+        android:icon="@drawable/ic_hapus_data"/>
 </menu>
